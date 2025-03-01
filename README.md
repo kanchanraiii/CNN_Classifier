@@ -18,7 +18,7 @@
   - `Conv2D` → `ReLU` → `MaxPooling`  
   - `Conv2D` → `ReLU` → `MaxPooling`  
   - `Flatten` → `Dense` → `Dropout`  
-  - Output layer (`Softmax` for classification)  
+  - Output layer (`Sigmoid` for classification)  
 
 ## Required Libraries  
 ```python
